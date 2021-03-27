@@ -1,47 +1,52 @@
-baseURL = "https://example.com"
+baseURL = "https://home.farshid.ws/"
 languageCode = "en-us"
-title = "Archie"
+title = "Farshid Tavakolizadeh"
 theme="archie"
-copyright = "© Athul"
+copyright = "© Farshid Tavakolizadeh"
 pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 ignoreErrors = ["error-remote-getjson"] # to ignore instagram resource fetch error
+
+[markup.goldmark.renderer]
+	unsafe= true
+
 [params]
 	mode="auto"
-	useCDN=false
-	subtitle = "Minimal and Clean [blog theme for Hugo](https://github.com/athul/archie)"
+	useCDN=true
+	#subtitle = "Can add markdown here."
 
 [[params.social]]
 name = "GitHub"
 icon = "github"
-url = "https://github.com/athul/archie"
+url = "https://github.com/farshidtz"
 
 [[params.social]]
-name = "Twitter"
-icon = "twitter"
-url = "https://github.com/athulcajay/"
+name = "LinkedIn"
+icon = "linkedin"
+url = "https://linkedin.com/in/farshidt"
 
 [[params.social]]
-name = "GitLab"
-icon = "gitlab"
-url = "https://gitlab.com/athul/"
-[[menu.main]]
-name = "Home"
-url = "/"
-weight = 1
+name = "Google Scholar"
+icon = "book-open"
+url = "https://scholar.google.com/citations?user=RULta1sAAAAJ&hl=en"
 
-[[menu.main]]
-name = "All posts"
-url = "/posts"
-weight = 2
+#[[menu.main]]
+#name = "Home"
+#url = "/"
+#weight = 1
 
-[[menu.main]]
-name = "About"
-url = "/about"
-weight = 3
+#[[menu.main]]
+#name = "All posts"
+#url = "/posts"
+#weight = 2
 
-[[menu.main]]
-name = "Tags"
-url = "/tags"
-weight = 4
+#[[menu.main]]
+#name = "About"
+#url = "/about"
+#weight = 3
+
+#[[menu.main]]
+#name = "Tags"
+#url = "/tags"
+#weight = 4
