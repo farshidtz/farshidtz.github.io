@@ -6,6 +6,7 @@ copyright = "© Athul"
 pygmentsstyle = "monokai"
 pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
+ignoreErrors = ["error-remote-getjson"] # to ignore instagram resource fetch error
 [params]
 	mode="auto"
 	useCDN=false
