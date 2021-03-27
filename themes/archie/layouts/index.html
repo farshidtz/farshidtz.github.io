@@ -11,6 +11,8 @@
 					<p>{{ .Site.Params.Subtitle | markdownify }}</p>
 					{{- end -}}
 				</div>
+				{{.Content}}
+				<!--
 				{{ $pages := where .Site.RegularPages "Type" "in" .Site.Params.mainSections }}
 				{{ $paginator := .Paginate (where $pages "Params.hidden" "ne" true) }}
 				{{ range $paginator.Pages }}
@@ -28,6 +30,7 @@
 				</section>
 				{{ end }}
 				{{ template "partials/paginator.html" . }}
+				-->
 			</main>
 			{{ partial "footer.html" . }}
 		</div>
