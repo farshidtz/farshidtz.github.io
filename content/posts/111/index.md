@@ -1,7 +1,7 @@
 ---
 title: Self-driving Scout Rover
 date: 2012-04-23T00:00:00Z
-description: 
+description: An autonomous prototype rover navigates across a model city, respecting traffic lights while following a predefined route to periodically collect data.
 aliases: ["/projects/111"]
 otherContributors: ["Bahador Saket"]
 ---

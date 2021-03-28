@@ -1,7 +1,7 @@
 ---
 title: NXT FaceShooter
 date: 2011-07-15T00:00:00Z
-description: 
+description: A robot acts a defense tower which detects human face and shoots towards it.
 aliases: ["/projects/110"]
 otherContributors: ["Bahador Saket"]
 ---

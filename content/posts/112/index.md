@@ -1,7 +1,7 @@
 ---
 title: cvPaint - Simple drawing using camera
 date: 2012-01-18T00:00:00Z
-description: 
+description: Simple painting using the camera input.
 aliases: ["/projects/112"]
 ---
 
