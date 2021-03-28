@@ -15,6 +15,17 @@
 			{{ .Content }}
 		</section>
 
+		
+		<div class="post-other-contrib">
+			{{ if gt .Params.otherContributors 0 }}
+			Other contributors: 
+					{{ range $index, $element := .Params.otherContributors}}
+					{{ if $index }}, {{ end }}
+					{{ $element }}
+					{{ end }}
+			{{ end }}
+		</div>
+
 		<div class="post-tags">
 			{{ if ne .Type "page" }}
 			{{ if gt .Params.tags 0 }}
