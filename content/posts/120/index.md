@@ -14,7 +14,7 @@ Finding missing items has always been troublesome. To tackle the hassle, several
 
 ## Publication
 
--   Farshid Tavakolizadeh, Jiawei Gu, and Bahador Saket.  [Traceband: Locating Missing Items by Visual Remembrance.](http://dl.acm.org/citation.cfm?id=2658800) In Proc. UIST'14 Adjunct, ACM Press (2014).
+-   Farshid Tavakolizadeh, Jiawei Gu, and Bahador Saket.  [Traceband: Locating Missing Items by Visual Remembrance.](http://dl.acm.org/citation.cfm?id=2658800) In Proc. UIST'14 Adjunct, ACM Press (2014). [[PDF](/pub/Traceband_Locating_Missing_Items_by_Visual_Remembrance.pdf)]
 
 # Demo
 <!-- https://www.youtube.com/watch?v=rUIfKsyr5tE -->
