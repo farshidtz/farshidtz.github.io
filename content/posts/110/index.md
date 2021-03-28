@@ -1,5 +1,5 @@
 ---
-title: "NXT FaceShooter"
+title: NXT FaceShooter
 date: 2011-07-15T00:00:00Z
 description: 
 aliases: ["/projects/110"]

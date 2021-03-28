@@ -1,5 +1,5 @@
 ---
-title: "cvPaint - Simple drawing using camera"
+title: cvPaint - Simple drawing using camera
 date: 2012-01-18T00:00:00Z
 description: 
 aliases: ["/projects/112"]
@@ -26,5 +26,5 @@ This application is developed in C++ using the well known OpenCV Library. The ap
 -   Getting use of the pointer's area to distinguish between the pointer itself and noises
 -   Using a 5x5 Median Filter to reduce the background noise
 
-## Source Codes
+## Source Code
 https://github.com/farshidtz/cvPaint

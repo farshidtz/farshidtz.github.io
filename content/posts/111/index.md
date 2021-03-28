@@ -1,5 +1,5 @@
 ---
-title: "Self-driving Scout Rover"
+title: Self-driving Scout Rover
 date: 2012-04-23T00:00:00Z
 description: 
 aliases: ["/projects/111"]
