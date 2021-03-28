@@ -78,9 +78,9 @@ figure {
   max-width: 100%;
 }
 
-figure img {
+/* figure img {
   max-height: 500px;
-}
+} */
 
 @media screen and (min-width: 600px) {
   figure {
@@ -172,6 +172,10 @@ time {
 /* Posts */
 article .title {
   margin-bottom: 1em;
+}
+
+.post-other-contrib {
+  margin-top: 2em;
 }
 
 
