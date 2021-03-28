@@ -12,7 +12,7 @@ cvPaint is an application which allows simple drawing using camera input. The ke
 
 This application is developed in C++ using the well known OpenCV Library. The application demo and the list of all features are available below:
 
-**Control Features with camera:**
+## Control Features with Camera
 
 -   Changing the brush color
 -   Changing the brush thickness
@@ -20,8 +20,11 @@ This application is developed in C++ using the well known OpenCV Library. The ap
 -   Saving the image
 -   Closing the application
 
-**Noise Handing:**
+## Noise Handing
 
 -   Setting threshold for the maximum distance between two points
 -   Getting use of the pointer's area to distinguish between the pointer itself and noises
 -   Using a 5x5 Median Filter to reduce the background noise
+
+## Source Codes
+https://github.com/farshidtz/cvPaint
