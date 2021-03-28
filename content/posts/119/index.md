@@ -29,7 +29,9 @@ This project is a property of Microsoft Research, done at the Human-Computer Int
 ![](Screenshot-6.jpg)
 
 # Demo
+<!-- https://www.youtube.com/watch?v=dGMEXtPRT_I -->
 {{< youtube dGMEXtPRT_I >}}
 
 --
+<!-- https://www.youtube.com/watch?v=oEkIbUWzkLU -->
 {{< youtube oEkIbUWzkLU >}}

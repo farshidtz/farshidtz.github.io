@@ -7,6 +7,7 @@ aliases: ["/projects/112"]
 
 cvPaint is an application which allows simple drawing using camera input. The key features include changing color, size, erasing and saving the image by holding a pointer on the available toolbars.
 
+<!-- https://www.youtube.com/watch?v=o556bMSQkOo -->
 {{< youtube o556bMSQkOo >}}
 
 

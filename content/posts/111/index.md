@@ -41,6 +41,7 @@ A robot and a scale model (simulated city) were developed to showcase the concep
 -   IR Signal Transmissions with 555 timer ICs.
 
 ## Demo
+<!-- https://www.youtube.com/watch?v=l29MnKnN9_Q -->
 {{< youtube l29MnKnN9_Q >}}
 
 <!-- ## Report

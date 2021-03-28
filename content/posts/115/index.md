@@ -24,4 +24,5 @@ The robot navigates in the environment and on every interval, scans the surround
 ## Demo
 The video below is the demo of mapping in a small environment. The robot scans the environment in every 5cm of movement. The complete mapping of this environment takes about 30 minutes.
 
+<!-- https://www.youtube.com/watch?v=sl4xhit_E8w -->
 {{< youtube sl4xhit_E8w >}}
