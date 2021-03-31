@@ -12,7 +12,7 @@ ignoreErrors = ["error-remote-getjson"] # to ignore instagram resource fetch err
 	unsafe= true
 
 [params]
-	mode="auto"
+	mode="light" # light/dark/auto
 	useCDN=true
 	#subtitle = "Can add markdown here."
 
