@@ -1,6 +1,8 @@
 # About
 
-I am a software architect and applied researcher, working on challanging issues in the Internet of Things. I design and implement systems that enable interoprability between IoT and Cloud, some of which are open-source as part of [LinkSmart](https://github.com/linksmart). Moreover, I co-author the [W3C Web of Things (WoT) Discovery](https://w3c.github.io/wot-discovery) specification, aimed at standardizing IoT service discovery across various protocols. 
+I design and implement systems that enable interoperability between IoT and Cloud, most of which are open-source as part of [LinkSmart](https://github.com/linksmart) and [EdgeX](https://github.com/edgexfoundry).
+I co-author the [W3C Web of Things (WoT) Discovery](https://www.w3.org/TR/wot-discovery/) specification, aimed at standardizing IoT service discovery across various protocols.
+My current focus is on making IoT software deployment easier and more secure.
 
 <!-- My education, work experience, and projects are described on [<i class="fab fa-linkedin"></i> LinkedIn](https://www.linkedin.com/in/farshidt). -->
 
